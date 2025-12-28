@@ -50,6 +50,7 @@ dependencies = [
     { name = "anthropic" },
     { name = "dotenv" },
     { name = "openai" },
+    { name = "python-dotenv" },
 ]
 
 [package.metadata]
@@ -57,6 +58,7 @@ requires-dist = [
     { name = "anthropic", specifier = ">=0.75.0" },
     { name = "dotenv", specifier = ">=0.9.9" },
     { name = "openai", specifier = ">=2.14.0" },
+    { name = "python-dotenv", specifier = ">=1.2.1" },
 ]
 
 [[package]]
